@@ -1,0 +1,7 @@
+# Hospital Pricing Transparency in the USA
+A visualisation of the crowd created dataset from [Dolt](https://www.dolthub.com/repositories/dolthub/transparency-in-pricing).  <br>
+Health care in the United States is notoriously untransparent and expensive. The price for services is only informed after care and is known to be 2.5 times more than most developed nations in the word. Americans have the highest health expenditure per capita in the world at 17.6%, while the second highest is only 12%. This highlights heavy healthcare prices in the United States. While these healthcare prices rise, most hospitals do not inform users of their costs until after service, and even then, the costs are not itemized. To combat this in 2021, an US executive order to release all insurance related rates to the hospitals websites, to increase transparency for the user. Still, users do not know what prices their local hospitals will be, and this causes fear of going to medical institutes and having procedures done.
+<br>![Q3](https://github.com/Safayy/HospitalTransparency/assets/61148588/249f76da-116f-42dd-a371-40898be5ee32)
+![Q2](https://github.com/Safayy/HospitalTransparency/assets/61148588/6140f001-b344-462e-b477-af0a69d386df)
+![Q1](https://github.com/Safayy/HospitalTransparency/assets/61148588/7a675914-1381-4ab0-a9f0-2892071cd523)
+![image](https://github.com/Safayy/HospitalTransparency/assets/61148588/ed08e991-ae36-4a67-ab52-16303ea7c656)
